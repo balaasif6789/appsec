@@ -1,1 +1,11 @@
 
+https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
+https://github.com/trailofbits/protofuzz
+https://github.com/fuzzdb-project/fuzzdb
+
+
+
+
+
+Tools
+wfuzz https://wfuzz.readthedocs.io/en/latest/user/basicusage.html#fuzzing-paths-and-files
