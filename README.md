@@ -17,7 +17,8 @@ Payloads
 https://github.com/swisskyrepo/PayloadsAllTheThings <br>
 
 
-Tools 
+<b>Tools </b> <br>
 https://github.com/1N3/BlackWidow <br>
+https://github.com/1N3/Sn1per <br>
 
 
