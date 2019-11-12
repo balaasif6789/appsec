@@ -22,3 +22,18 @@ https://github.com/1N3/BlackWidow <br>
 https://github.com/1N3/Sn1per <br>
 
 Reverse Proxy https://github.com/drk1wi/Modlishka <br>
+
+*********************************************************************************************************************************
+
+<b>SSRF links</b>
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery <br>
+https://github.com/cujanovic/SSRF-Testing <br>
+
+
+
+<b> XXE links </b> 
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection <br>
+
+
